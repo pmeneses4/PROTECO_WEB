@@ -1,0 +1,46 @@
+html{
+	background-color: gray
+}
+
+
+h1, h5{
+	color: red; 	/*codigo hexadecimal o nombres basicos*/
+	color: #B061FF;
+	color: rgb(100,200,30);
+}
+
+p i{
+	color: red;
+
+}
+
+#ParrafoE{
+	color: green;
+}
+
+.imagenRe{
+	height: 125 px;
+	width:  200 px;
+}
+
+.hedy1{
+	height: 500 px;
+	width: 683 px;
+}
+
+.hedy2{
+	height: 250 px;
+	width: 341 px;
+}
+
+.hedy3{
+	height: 1290 px;
+	width: 725 px;
+}
+
+.hedy4{
+	height: 552 px;
+	width: 710 px;
+}
+
+/*comentario*/
